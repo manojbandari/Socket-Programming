@@ -2,7 +2,7 @@ import socket
 
 def main():
 
-    host = '10.1.135.140'
+    host = '127.0.0.1'
     port = 5000
 
     sockobj = socket.socket()
